@@ -30,20 +30,18 @@ This work was supported by the Concurso de Investigación y Creación Avanza UC 
 
 The methodological protocol is available in English and Spanish, accompanied by a technical specification. These documents should be preserved and updated deliberately rather than replaced by this README:
 
-- **[English methodological protocol — Version 1.0](documents/protocol/IG_Automation_Methodological_Protocol.docx)**: explains the methodological workflow, analytical decisions, and quality controls.
-- **[Protocolo metodológico en español — Versión 1.0](documents/protocol/IG_Statement_Classification_Protocol_v1.0_ES.docx)**: traducción completa de la versión inglesa, con las mismas tablas, referencias y alcance metodológico. Los identificadores técnicos se mantienen para corresponder con el código y la base de datos.
-- **[Technical Database and Data-Structure Specification](documents/protocol/IG_Technical_Database_and_Data_Specification.docx)**: defines the technical implementation, database structure, fields, identifiers, and data-management rules.
-
-Earlier drafts under `documents/protocol/archive/` are retained only as historical records.
+- **[English methodological protocol — Version 1.0](documents/protocol/IG_Automation_Methodological_Protocol.pdf)**: explains the methodological workflow, analytical decisions, and quality controls.
+- **[Protocolo metodológico en español — Versión 1.0](documents/protocol/IG_Statement_Classification_Protocol_v1.0_ES.pdf)**: traducción completa de la versión inglesa, con las mismas tablas, referencias y alcance metodológico. Los identificadores técnicos se mantienen para corresponder con el código y la base de datos.
+- **[Technical Database and Data-Structure Specification](documents/protocol/IG_Technical_Database_and_Data_Specification_EN.pdf)**: defines the technical implementation, database structure, fields, identifiers, and data-management rules.
 
 ## Directory structure
 
 - `codes/`: shared configuration and numbered pipeline scripts.
 - `data/`: machine-readable intermediate data and the canonical SQLite database.
-- `documents/`: protocol files, source PDFs, references, and project inputs.
+- `documents/`: protocol files, source PDFs.
 - `tables/`: CSV/JSON inventories and review/report tables.
 - `outputs/`: task packages, reports, vectorizations, and fitted models.
-- `memos_avance/`: project progress memoranda.
+
 
 Canonical locations used by the code are:
 
