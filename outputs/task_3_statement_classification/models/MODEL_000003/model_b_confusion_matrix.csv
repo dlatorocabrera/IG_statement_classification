@@ -1,0 +1,7 @@
+configuration_id,configuration_label,actual_label,predicted_regulative,predicted_constitutive,predicted_non_institutional,actual_total
+B1,full-feature unweighted baseline,regulative,59,1,8,68
+B1,full-feature unweighted baseline,constitutive,14,10,7,31
+B1,full-feature unweighted baseline,non_institutional,9,0,33,42
+B2,full-feature balanced adaptation,regulative,57,2,9,68
+B2,full-feature balanced adaptation,constitutive,8,13,10,31
+B2,full-feature balanced adaptation,non_institutional,7,0,35,42

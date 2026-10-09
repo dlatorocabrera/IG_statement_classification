@@ -1,0 +1,7 @@
+configuration_id,configuration_label,actual_label,predicted_regulative,predicted_constitutive,predicted_non_institutional,actual_total
+C1,nested-RFECV unweighted,regulative,63,1,4,68
+C1,nested-RFECV unweighted,constitutive,6,20,5,31
+C1,nested-RFECV unweighted,non_institutional,8,0,34,42
+C2,nested-RFECV balanced,regulative,60,1,7,68
+C2,nested-RFECV balanced,constitutive,12,13,6,31
+C2,nested-RFECV balanced,non_institutional,6,0,36,42
